@@ -6,3 +6,4 @@
     }
 
 ?>
+<!-- kết nối với database -->
