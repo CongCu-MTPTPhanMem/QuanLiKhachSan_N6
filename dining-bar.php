@@ -57,4 +57,4 @@ $foods = getDataFoods();
 include "layouts/footer.php"
 ?>
 <!-- giao dien hien thi do an -->
-<!-- ............. -->
+
