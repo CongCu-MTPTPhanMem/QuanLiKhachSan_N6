@@ -72,3 +72,4 @@ for ($i = 0; $i < 5; $i++) {
 include "layouts/footer.php"
 ?>
 <!-- Tao giao dien hien thi phong-->
+<!-- ..... -->
