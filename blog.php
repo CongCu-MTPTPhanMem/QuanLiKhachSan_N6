@@ -187,3 +187,4 @@
 <?php
         include("layouts/footer.php")
 ?>
+<!-- giao dien trang tin tuc va thong tin-->
