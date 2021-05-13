@@ -79,3 +79,4 @@
 <?php
     include "layouts/footer.php"
 ?>
+<!--Giao dien trang tin tuc va thong tin -->
