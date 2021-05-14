@@ -56,5 +56,5 @@ $foods = getDataFoods();
 <?php
 include "layouts/footer.php"
 ?>
-<!-- giao dien hien thi do an -->
+<!-- giao dien hien thi do an va bar -->
 
