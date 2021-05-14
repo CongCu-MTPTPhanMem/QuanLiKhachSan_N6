@@ -408,3 +408,5 @@ $dataRandomRooms = getDataRandomRooms();
         <?php
 include "layouts/footer.php"
 ?>
+<!-- giao dien trang chủ -->
+<!-- ....... -->
